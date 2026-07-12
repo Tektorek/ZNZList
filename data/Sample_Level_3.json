@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
+    "id": 71140163,
+    "name": "Ample park",
+    "author": "ItzMezzo",
+    "creators": [],
+    "verifier": "ItzMezzo",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "percentToQualify": "94",
+    "password": "2137",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "Tektorek",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
-            "hz": 360
+            "hz": 100
         },
         {
             "user": "Sample_Victor_2",
